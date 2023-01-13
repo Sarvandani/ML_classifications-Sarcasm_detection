@@ -15,6 +15,8 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.naive_bayes import BernoulliNB
 data = pd.read_json("Sarcasm.json", lines=True)
 print(data.head())
+print(data.isnull().sum())
+
 #--------------------------------
 # writing data with lable and feature
 #feature column: headline
