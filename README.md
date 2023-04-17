@@ -4,3 +4,9 @@ K-Nearest Neighbors and decision trees.
 
 The data can be dowload from the following link:
 https://www.kaggle.com/datasets/saurabhbagchi/sarcasm-detection-through-nlp
+
+
+
+
+`DISCLAIMER`:  I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
+
