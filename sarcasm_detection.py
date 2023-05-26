@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 @author: Sarvandani
+##The data can be dowload from the following link:
+##https://www.kaggle.com/datasets/saurabhbagchi/sarcasm-detection-through-nlp
 """
 import pandas as pd
 import numpy as np
